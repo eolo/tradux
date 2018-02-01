@@ -1,0 +1,2 @@
+# tradux
+Traducciones filosoficas
